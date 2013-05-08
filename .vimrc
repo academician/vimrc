@@ -29,6 +29,9 @@ let mapleader = ','
 
 filetype plugin indent on     " required!
 
+"mozilla/rust settings
+let g:no_rust_conceal = 1
+
 syntax enable
 set autoindent
 set smartindent
